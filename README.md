@@ -4,3 +4,4 @@ ETHERCAT SLAVE USE AX58100 / M487KIDAE
 
 ![image](https://github.com/cowboy62/ETHERCAT-SLAVE-USE-AX58100-M487KIDAE/blob/master/AX58100_M487KIDAE.jpg)
 
+![image](https://github.com/cowboy62/ETHERCAT-SLAVE-USE-AX58100-M487KIDAE/blob/master/AX58100-M487.png)
